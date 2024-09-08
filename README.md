@@ -1,4 +1,4 @@
-Hi, I'm Thorbert and I'm a complete beginner to GitHub. I'm looking forward to the years and projects to come as I try to get a grip on stuff.
+Hey, I'm Thorbert and I work on simple web development projects. I am looking to learn more about the programming landscape and branch out to greater, more useful things. Wish me luck!
 
 <!---
 Thorbert1/Thorbert1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
