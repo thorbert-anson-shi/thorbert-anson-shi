@@ -1,4 +1,6 @@
-Hey, I'm Thorbert and I work on simple web development projects. I am looking to learn more about the programming landscape and branch out to greater, more useful things. Wish me luck!
+I make things
+
+[![my stats](https://github-readme-stats.vercel.app/api?username=thorbert-anson-shi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Thorbert1/Thorbert1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
