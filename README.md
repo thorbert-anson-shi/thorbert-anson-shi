@@ -10,7 +10,7 @@ i'm learning mostly about web based technologies
 
 
 while not really weekly, i work on my side projects here:<br />
-[![weekly-projects](https://github-readme-stats.vercel.app/api/pin/?username=thorbert-anson-shi&repo=weekly-projects&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![weekly-projects](https://github-readme-stats.vercel.app/api/pin/?username=thorbert-anson-shi&repo=weekly-projects&theme=tokyonight)](https://github.com/thorbert-anson-shi/weekly-projects)
 <!---
 Thorbert1/Thorbert1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
